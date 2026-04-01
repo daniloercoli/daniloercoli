@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Danilo
 
-I’m a Senior Software Developer with experience spanning mobile, backend, complex systems, AWS, and AI.  
-I spent many years at **Automattic**, the company behind WordPress.com, WooCommerce, and Gravatar, where I worked on the WordPress mobile apps, WordPress core, and a variety of open source projects.  
-After that, I joined Tumblr as an Engineering Manager before starting my career as a software developer contractor.
+I’m a Senior Software Developer with experience spanning mobile, backend, complex systems, AWS, and AI. I previously worked at Automattic, the company behind WordPress.com, Tumblr, WooCommerce, and Gravatar, for over 15 years, where I contributed to the WordPress mobile apps, WordPress core, and several open source projects. Today, I operate as a Senior Software Developer freelance, dedicated to developing complex software solutions and integrations, combined with technical leadership.
 
-📍 Most of what I do lives on [danilo.blog](https://danilo.blog) - [oggiauto.it](https://oggiauto.it).
+📍 [danilo.blog](https://danilo.blog)
